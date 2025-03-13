@@ -76,20 +76,20 @@ forma_de_pagamento = {
 }
 
 
-escolha_form_pag =  int(input('Escolha a forma de pagamento: 1 pix, 2 CC, 3CD, 4 Dinheiro '))
+escolha_form_pag =  int(input(' Escolha a forma de pagamento: 1 pix, 2 CC, 3 CD, 4 BOLETO '))
 
 if escolha_form_pag == 1:
     forma =  forma_de_pagamento[1]
-    print(f'Seu pagamento vai ser efetuado em {forma}')
+    print(f' Seu pagamento vai ser efetuado em {forma} ')
 elif escolha_form_pag == 2:
     forma =  forma_de_pagamento[2]
-    print(f'Seu pagamento vai ser efetuado em {forma}')  
+    print(f' Seu pagamento vai ser efetuado em {forma} ')  
 elif escolha_form_pag == 3:
     forma =  forma_de_pagamento[3]
-    print(f'Seu pagamento vai ser efetuado em {forma}')
+    print(f' Seu pagamento vai ser efetuado em {forma} ')
 elif escolha_form_pag == 4:
     forma =  forma_de_pagamento[1]
-    print(f'Seu pagamento vai ser efetuado em {forma}')
+    print(f' Seu pagamento vai ser efetuado em {forma} ')
       
 print(f''' Pagamento efetuado com sucesso
 em aé 48 horas seu pedido será confirmado e enviado
