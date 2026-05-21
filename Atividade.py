@@ -92,5 +92,5 @@ elif escolha_form_pag == 4:
     print(f' Seu pagamento vai ser efetuado em {forma} ')
       
 print(f''' Pagamento efetuado com sucesso
-em aé 48 horas seu pedido será confirmado e enviado
+em até 48 horas seu pedido será confirmado e enviado
 ''')        
