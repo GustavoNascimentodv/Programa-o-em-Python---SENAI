@@ -1,1 +1,1 @@
-# Programação-em-Python---SENAI
+# ATIVIDADES DE PYTHON DO SENAI
